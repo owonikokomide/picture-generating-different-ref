@@ -13,7 +13,7 @@
   <div class="container">
     <form action="" method="POST">
       <div class="picture">
-        <img src="img/paris.jpeg" name="pics" alt="">
+        <img src="img/paris.jpeg"  name="pics" alt="">
       </div>
       <input type="number" class="number" name="num"></br>
       <input type="submit" class="submit" name="submit">
