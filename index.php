@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="pics.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Picture generating diiference ref id</title>
+  <title>Picture Generating Diference Ref ID</title>
 </head>
 <body>
   <div class="containers">
