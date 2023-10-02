@@ -29,7 +29,7 @@
 if(isset($_POST['submit'])){
   // $pics = $_POST['pics'];
  
-  $number = $_POST['num'];
+  $number =  $_POST['num'];
   for($i = 1; $i <= $number; $i++){
     $imgname = "paris.jpeg";
     $image = "imagecreatefromjpeg($imgname)";
