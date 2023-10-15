@@ -33,7 +33,7 @@ if(isset($_POST['submit'])){
     $imgname = "paris.jpeg";
     $image = "imagecreatefromjpeg($imgname)";
     $uniqueid ="Ref".rand(1111111111,9999999999);
-    $folder = "image/";
+    $folder = "image/"; 
     
     $textColor = "imagecolorallocate($image, 255, 255, 255)"; // White text color
     $imgstring = "imagestring($image, 5, 10, 10, $uniqueid, $textColor)";
