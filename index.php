@@ -11,7 +11,7 @@
   <div class="containers">
   <div class="container">
     <form action="" method="POST">
-      <div class="picture">
+      <div class="picture"> 
         <img src="img/paris.jpeg" name="pics" alt="">
       </div>
       <input type="number" class="number" name="num"></br>
