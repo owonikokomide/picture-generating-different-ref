@@ -8,7 +8,7 @@
   <title>Picture Generating Diference Ref ID</title>
 </head> 
 <body>  
-  <div class="containers">
+  <div class="containers"> 
   <div class="container">
     <form action="" method="POST">
       <div class="picture"> 
